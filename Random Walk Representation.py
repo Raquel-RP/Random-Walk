@@ -3,6 +3,7 @@
 """
 Graphic representation of the probability 
 process known as Random Walk
+R.R.P
 
 """
 import random
